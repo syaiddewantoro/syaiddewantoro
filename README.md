@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @syaiddewantoro
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science at Practicum
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email : syaiddewantoro76@gmail.com
+- 📫 How to reach me email : msyaiddewantoro@gmail.com
 
 <!---
 syaiddewantoro/syaiddewantoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
